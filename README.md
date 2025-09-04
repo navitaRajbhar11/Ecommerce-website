@@ -9,7 +9,7 @@ Stripe - 2.51.0
 To Install:
 Cloning the Repository:
 
-$ cd django_ecommerce 
+$ cd django_ecommerce  or ecommerce-website
 
 Installing the environment control:
 
